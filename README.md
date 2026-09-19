@@ -13,7 +13,13 @@ Each release here is one plugin at one version, tagged `<plugin>-v<version>`, wi
 
 ## Plugins
 
-Plugins appear here as their releases move across from the older per-plugin repos.
+More arrive here as their releases move across from the older per-plugin repos.
+
+### Focus
+
+Remove the peripherals: the stereo sides close in, the mono middle comes forward. A Goghini and Box Of Rules collaboration. Free. AU, VST3, LV2 and AAX for macOS, Windows and Linux.
+
+[Plugin page, docs and FAQ](https://plugins.boxofrules.com/plugins/focus?utm_source=github&utm_medium=readme&utm_campaign=plugins) · [Latest release: 1.0.1](https://github.com/boxofrules/plugins/releases/tag/focus-v1.0.1) · [All Focus releases](https://github.com/boxofrules/plugins/releases?q=focus-v&expanded=true)
 
 ## Links
 
